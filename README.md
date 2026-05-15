@@ -9,7 +9,7 @@ This project is an interactive **Excel Dashboard** designed to analyze sales and
 
 The project demonstrates the use of Excel for data cleaning, analysis, visualization, and dashboard creation using charts, Pivot Tables, slicers, and KPI metrics.
 
-er_diagram.png
+images/er_Dashboard.png
 
 Dashboard Objectives
 
